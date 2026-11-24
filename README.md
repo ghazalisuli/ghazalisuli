@@ -6,6 +6,13 @@ I build software for the people running day-to-day operations. My work spans bac
 
 ## Selected work
 
+<p align="center">
+<a href="#nutqi"><img src="./nutqi.svg" width="48%" alt="Nutqi" /></a>
+<a href="https://wasaati.com/"><img src="./wasaati.svg" width="48%" alt="Wasaati" /></a><br />
+<a href="https://moeenai.com/"><img src="./moeen.svg" width="48%" alt="Moeen" /></a>
+<a href="https://yamamagency.com/"><img src="./yamam.svg" width="48%" alt="Yamam Agency" /></a>
+</p>
+
 ### Wasaati
 A real estate CRM that follows an inquiry from first contact to a property viewing. Agents manage leads, match requests to listings, and schedule visits. A voice assistant handles initial questions and directs callers to WhatsApp for follow-up.
 
@@ -25,6 +32,12 @@ A bilingual website for a Doha-based creative agency, bringing its services and 
 [Visit Yamam Agency ↗](https://yamamagency.com/)
 
 ## Engineering toolkit
+
+<p align="center">
+<img src="./software.svg" width="32%" alt="Software engineering" />
+<img src="./networks.svg" width="32%" alt="Network infrastructure" />
+<img src="./ai.svg" width="32%" alt="AI and automation" />
+</p>
 
 | Area | Technologies |
 | --- | --- |
