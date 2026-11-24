@@ -1,33 +1,37 @@
-# Ghazali Sulieman
+[![Ghazali Suleiman — Backend Developer and Network Engineer](profile-cover.svg)](https://ghazalidev.com/)
 
-**Backend Developer · Network Engineer · AI Integrations**
+I build software for the people running day-to-day operations. My work spans backend services, network infrastructure, and the integrations that connect them.
 
-I build web applications and internal systems, integrate APIs and automation, and support the network and VoIP infrastructure they depend on.
+[Visit my portfolio](https://ghazalidev.com/) · [Connect on LinkedIn](https://www.linkedin.com/in/ghazali-sulieman)
 
-[Portfolio](https://ghazalidev.com/) · [LinkedIn](https://linkedin.com/in/ghazali-sulieman)
+## Selected work
 
-## Selected projects
+### Wasaati
+A real estate CRM that follows an inquiry from first contact to a property viewing. Agents manage leads, match requests to listings, and schedule visits. A voice assistant handles initial questions and directs callers to WhatsApp for follow-up.
 
-| Project | What I worked on |
+[Explore Wasaati ↗](https://wasaati.com/)
+
+### Moeen
+Hajj operations teams receive circulars and incident reports that need an owner and a deadline. Moeen uses AI to classify incoming reports, routes them to the responsible team, and tracks each item through closure.
+
+[Explore Moeen ↗](https://moeenai.com/)
+
+### Nutqi
+Staff tools for a nonprofit supporting children with speech and language needs. My work connects appointment workflows, reminders, and staff notifications with the association’s phone and network infrastructure.
+
+### Yamam Agency
+A bilingual website for a Doha-based creative agency, bringing its services and portfolio together for Arabic- and English-speaking clients.
+
+[Visit Yamam Agency ↗](https://yamamagency.com/)
+
+## Engineering toolkit
+
+| Area | Technologies |
 | --- | --- |
-| **Nutqi** | Appointment workflows, notifications, and staff tools for a nonprofit supporting children with speech and language needs. |
-| **[Wasaati](https://wasaati.com/)** | Real estate CRM for leads, properties, and viewings, with an AI voice assistant for inquiries. |
-| **[Moeen](https://moeenai.com/)** | Operations platform that routes circulars and incident reports, sends notifications, and tracks follow-up. |
-| **[Yamam Agency](https://yamamagency.com/)** | Bilingual website for a Doha-based agency to showcase its services and creative work. |
+| Backend services | Laravel, PHP, ASP.NET Core, C#, Node.js, Python |
+| Web interfaces | React, Next.js, TypeScript |
+| Data | MySQL, SQL Server, MongoDB |
+| Networks and operations | DNS, SIP, VoIP, Docker, hosting |
+| Systems integration | REST APIs, n8n, voice assistants, notification workflows |
 
-## Technical focus
-
-| Area | Tools and practices |
-| --- | --- |
-| Backend and data | PHP, Laravel, ASP.NET Core, Node.js, Python, MySQL, SQL Server |
-| Web applications | TypeScript, React, Next.js |
-| Infrastructure | Docker, DNS, hosting, SIP and VoIP, network operations |
-| Integrations | REST APIs, n8n, AI and voice workflows |
-
-BSc (Honours) in Information Technology, University of the Red Sea · 2018
-
-## بالعربي
-
-أنا غزالي سليمان، مطوّر أنظمة خلفية ومهندس شبكات. أعمل على تطوير منصات الويب والأنظمة الداخلية، وربط الخدمات وأتمتة إجراءات العمل، وتشغيل الشبكات والاتصالات. من أعمالي منصة نُطقي لعمليات الجمعية، ووساطتي لإدارة العمل العقاري، ومعين لمتابعة البلاغات والتعاميم.
-
-[الموقع الشخصي](https://ghazalidev.com/)
+**Education** · BSc (Honours) in Information Technology, University of the Red Sea, 2018
