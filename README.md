@@ -1,59 +1,33 @@
-<div align="center">
-
-[![GhazaliDev — Engineering Portfolio](assets/cover.svg)](https://ghazalidev.com/)
-
 # Ghazali Sulieman
 
-**Software Engineering · Network Infrastructure · AI Integration**
+**Backend Developer · Network Engineer · AI Integrations**
 
-I build practical digital systems that connect people, processes and technology — from business applications to infrastructure and intelligent automation.
+I build web applications and internal systems, integrate APIs and automation, and support the network and VoIP infrastructure they depend on.
 
-[Portfolio](https://ghazalidev.com/) · [Repositories](https://github.com/ghazalisuli?tab=repositories)
+[Portfolio](https://ghazalidev.com/) · [LinkedIn](https://linkedin.com/in/ghazali-sulieman)
 
-</div>
+## Selected projects
 
-## Engineering disciplines
+| Project | What I worked on |
+| --- | --- |
+| **Nutqi** | Appointment workflows, notifications, and staff tools for a nonprofit supporting children with speech and language needs. |
+| **[Wasaati](https://wasaati.com/)** | Real estate CRM for leads, properties, and viewings, with an AI voice assistant for inquiries. |
+| **[Moeen](https://moeenai.com/)** | Operations platform that routes circulars and incident reports, sends notifications, and tracks follow-up. |
+| **[Yamam Agency](https://yamamagency.com/)** | Bilingual website for a Doha-based agency to showcase its services and creative work. |
 
-![Software engineering](assets/software.svg)
+## Technical focus
 
-![Networks and infrastructure](assets/networks.svg)
+| Area | Tools and practices |
+| --- | --- |
+| Backend and data | PHP, Laravel, ASP.NET Core, Node.js, Python, MySQL, SQL Server |
+| Web applications | TypeScript, React, Next.js |
+| Infrastructure | Docker, DNS, hosting, SIP and VoIP, network operations |
+| Integrations | REST APIs, n8n, AI and voice workflows |
 
-![AI and automation](assets/ai.svg)
+BSc (Honours) in Information Technology, University of the Red Sea · 2018
 
-## Technology stack
+## بالعربي
 
-| Discipline | Technologies |
-| :--- | :--- |
-| Application development | PHP · Laravel · JavaScript · TypeScript · React · Node.js · Python · C# · .NET |
-| Data | MySQL · SQL Server · MongoDB |
-| Infrastructure | Git · Docker · DNS · Hosting · SIP / VoIP |
-| Integration | REST APIs · n8n · AI and voice integrations |
+أنا غزالي سليمان، مطوّر أنظمة خلفية ومهندس شبكات. أعمل على تطوير منصات الويب والأنظمة الداخلية، وربط الخدمات وأتمتة إجراءات العمل، وتشغيل الشبكات والاتصالات. من أعمالي منصة نُطقي لعمليات الجمعية، ووساطتي لإدارة العمل العقاري، ومعين لمتابعة البلاغات والتعاميم.
 
-## 04 / Selected projects
-
-<div align="center">
-
-<a href="https://ghazalidev.com/"><img src="assets/nutqi.svg" width="48%" alt="Nutqi — nonprofit technology" /></a>
-<a href="https://wasaati.com/"><img src="assets/wasaati.svg" width="48%" alt="Wasaati — real estate technology" /></a>
-<a href="https://moeenai.com/"><img src="assets/moeen.svg" width="48%" alt="Moeen — digital operations" /></a>
-<a href="https://yamamagency.com/"><img src="assets/yamam.svg" width="48%" alt="Yamam — digital experience" /></a>
-
-</div>
-
-Project cards are original typographic illustrations, not screenshots of the applications. Proprietary source code and operational data are not published here.
-
-## Professional background
-
-BSc (Honours) in Information Technology — University of the Red Sea, 2018. Professional experience across software development, IT operations and network engineering.
-
-## GitHub activity
-
-[Explore public repositories and contribution history](https://github.com/ghazalisuli)
-
----
-
-<div align="center">
-
-**GhazaliDev** · [ghazalidev.com](https://ghazalidev.com/)
-
-</div>
+[الموقع الشخصي](https://ghazalidev.com/)
